@@ -85,12 +85,12 @@ This was provided free of use as a project to help people who want to generate N
 I'm not liable for any damages that occur as a result of making changes to your exising collections and I'm not liable for the content generated.
 
 
-Like this project or want to donate?
-PayPal: paypal.me/Calcaware
-OpenSea.io Ethereum: 0xf3db2c8080fd49fa471bc608e7143a101b8f7bd8
-CashApp: $Calcaware
+### Like this project or want to donate?
+PayPal: `paypal.me/Calcaware`
+OpenSea.io Ethereum: `0xf3db2c8080fd49fa471bc608e7143a101b8f7bd8`
+CashApp: `$Calcaware`
 
 
-Want to hire me?
-Personal Website: Calcaware.com
-Twitter: @Calcaware
+### Want to hire me?
+Personal Website: `Calcaware.com`
+Twitter: `@Calcaware`
