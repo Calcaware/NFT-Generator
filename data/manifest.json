@@ -1,0 +1,44 @@
+[
+	{
+		"Background": "Transparent None",
+		"Character": "Pink Sketch"
+	},
+	{
+		"Background": "Transparent None",
+		"Character": "Purple Sketch",
+		"Overlay": "White Hearts"
+	},
+	{
+		"Background": "Transparent None",
+		"Character": "Teal Sketch"
+	},
+	{
+		"Background": "Transparent None",
+		"Character": "Green Sketch"
+	},
+	{
+		"Background": "Vertical Blue Yellow Gradient",
+		"Character": "Pink Sketch"
+	},
+	{
+		"Background": "Transparent None",
+		"Character": "White Sketch"
+	},
+	{
+		"Background": "Diagonal Blue Pink Gradient",
+		"Character": "Teal Sketch"
+	},
+	{
+		"Background": "Transparent None",
+		"Character": "Black Sketch"
+	},
+	{
+		"Background": "Transparent None",
+		"Character": "Purple Sketch"
+	},
+	{
+		"Background": "Transparent None",
+		"Character": "Blue Sketch",
+		"Overlay": "Pink Hearts"
+	}
+]

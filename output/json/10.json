@@ -1,0 +1,20 @@
+{
+	"name": "Shitty NFT #10",
+	"description": "This is shitty NFT #10 something.",
+	"image": "ipfs://png/10.png",
+	"date": 1642587065406,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Transparent None"
+		},
+		{
+			"trait_type": "Character",
+			"value": "Blue Sketch"
+		},
+		{
+			"trait_type": "Overlay",
+			"value": "Pink Hearts"
+		}
+	]
+}

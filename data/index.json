@@ -1,0 +1,41 @@
+{
+	"Background": {
+		"Gradient": [
+			"Diagonal Blue Cyan.png",
+			"Diagonal Blue Pink.png",
+			"Horizontal Blue Cyan.png",
+			"Horizontal Blue Pink.png",
+			"Radial Blue Cyan.png",
+			"Radial Blue Green.png",
+			"Vertical Blue Purple.png",
+			"Vertical Blue Yellow.png"
+		],
+		"None": [
+			"Transparent.png"
+		]
+	},
+	"Character": {
+		"Sketch": [
+			"Black.png",
+			"Blue.png",
+			"Green.png",
+			"Orange.png",
+			"Pink.png",
+			"Purple.png",
+			"Teal.png",
+			"White.png"
+		]
+	},
+	"Overlay": {
+		"Confetti": [
+			"Gold.png",
+			"Rainbow.png",
+			"Silver.png",
+			"White.png"
+		],
+		"Hearts": [
+			"Pink.png",
+			"White.png"
+		]
+	}
+}

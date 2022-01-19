@@ -1,0 +1,16 @@
+{
+	"name": "Shitty NFT #5",
+	"description": "This is shitty NFT #5 something.",
+	"image": "ipfs://png/5.png",
+	"date": 1642587065406,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Vertical Blue Yellow Gradient"
+		},
+		{
+			"trait_type": "Character",
+			"value": "Pink Sketch"
+		}
+	]
+}

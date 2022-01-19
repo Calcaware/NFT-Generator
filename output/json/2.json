@@ -1,0 +1,20 @@
+{
+	"name": "Shitty NFT #2",
+	"description": "This is shitty NFT #2 something.",
+	"image": "ipfs://png/2.png",
+	"date": 1642587065406,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Transparent None"
+		},
+		{
+			"trait_type": "Character",
+			"value": "Purple Sketch"
+		},
+		{
+			"trait_type": "Overlay",
+			"value": "White Hearts"
+		}
+	]
+}
